@@ -1,3 +1,7 @@
+import "cal-sans";
+import '@fontsource-variable/inter';
+import "./global.css";
+
 export default function RootLayout({
   children,
 }: {
